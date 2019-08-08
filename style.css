@@ -1,0 +1,196 @@
+/* Star Header css */
+body
+{
+	margin: 0;
+}
+/* Header CSS */
+#headermini{
+	background-color: #443a4f;
+	color: white;
+}
+.head-slide-text {
+	margin-bottom: 5%;
+}
+.header-content span{
+	margin-left: 60em;
+ 
+}
+/* End-header CSS */
+/* Slider CSS */
+.slider{
+	width: 100%;
+	height: 650px;
+	padding-top: 1.5%;
+	background-image: url('img/slider.png');
+	background-position: center center;
+}
+#slider-text{
+	margin-top: 40%;
+}
+.slider-logo
+{
+	background-image: url('img/logo.png');
+	padding-top: 7%;
+	margin-right: 55%;
+	margin-left: 20%;
+}
+.slider-caption
+{
+	text-align: left;
+	color: #443a4f;
+	padding-top: 15%;
+	margin-right: 45%;
+	margin-left: 20%;
+}
+.slider-text
+{
+	text-align: left;
+	color: #443a4f;
+	margin-right: 45%;
+	margin-left: 20%;
+	
+}
+/* End-Slider CSS */
+
+/* BannerB CSS */
+.bannerB{
+	width: 100%;
+	height: 200px;
+	padding-top: 2%;
+	background-color: #3f2a56;
+	background-position: center center;
+}
+.bannerB p
+{
+	font-family:arial ;
+	letter-spacing: 2px;
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 15px;
+	
+}
+.bannerb-captrion
+{
+	text-align: center;
+	color: #ffffff;
+}
+.bannerb-test
+{
+	padding-top: 1.5%;
+	text-align: center;
+	color: #ffffff;
+}
+/* End-bannerSS */
+/* Content */
+.containers
+{
+	width: 100%;
+}
+/* Product */
+.product-title h3
+{
+	padding-top: 2%;
+	text-align: center;
+	color: #3f2a56;
+}
+.product-title p
+{
+	padding-top: 1%;
+	text-align: center;
+	color: #000000;
+}
+.product-text
+{
+	background-color: blue;
+	text-align: center;
+	color: #ffffff;
+}
+.product-image
+{
+	margin-left: 50px;
+}
+.allhr {
+	color:red; 
+	background:#979797;
+	height:1px;
+	margin-top: 5%;
+
+	
+}
+.product-title2 h3{
+	margin-top: 1%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-left:6%;
+}
+.product-describe p
+{
+	margin-top: 30%;
+	margin-left:20%;
+}
+.product-describe p p
+{
+	margin-top: 35%;
+	margin-left:18%;
+}		
+
+.product-title4 h3{
+	margin-top: 1%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+	margin-left:9.5%;
+}
+/* BannerC */
+.bannerC{
+	background: -moz-radial-gradient(top right, circle farthest-side, #ffffff 0%, #cfccbb 100%);
+    background: -o-radial-gradient(top right, circle farthest-side, #ffffff 0%, #cfccbb 100%);
+    background: -ms-radial-gradient(top right, circle farthest-side, #ffffff 0%, #cfccbb 100%);
+    background: -webkit-radial-gradient(top right, circle farthest-side, #ffffff 0%, #cfccbb 100%);
+	width: 100%;
+	height: 230px;
+	padding-top: 1%;
+	background-position: center center;
+}
+.bannerC p
+{
+	font-family:arial ;
+	letter-spacing: 2px;
+	font-weight: lighter;
+	font-style: normal;
+	font-size: 15px;
+	
+}
+.bannerC h3{
+	padding-bottom: 3%;
+}
+/* Footermini */
+.footermini
+{
+	padding-top: 4%;
+	height: 200px;
+	background-color: #3f2a56;
+}
+/* Button coslap */
+.btn-circle.btn-xl 
+{    
+	width: 40px;    
+	height: 40px;   
+	padding: 0.5px 7px; 
+	font-size: 25px;    
+	line-height: 1.33;
+	background-color: white;
+	border: black solid 1px;
+	border-radius: 35px;
+}
+
+.btn-circle.btn-xl2
+{    
+	width: 40px;    
+	height: 40px;   
+	padding: 0.5px 7px; 
+	font-size: 25px;    
+	line-height: 1.33;
+	background-color: #f1efe5;
+	border: black solid 1px;
+	border-radius: 35px;
+}
